@@ -1,0 +1,7 @@
+= bash tables
+Like "`hash tables`", but in bash. Get it??
+
+
+== But why?
+Want to learn more about implementing hash tables,
+and wondering if it's possible to make one that's moderately performant in bash.
