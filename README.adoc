@@ -1,6 +1,6 @@
 = bash tables
-Like "`hash tables`", but in bash. Get it??
 
+Like "`hash tables`", but in bash. Get it??
 
 == But why?
 Want to learn more about implementing hash tables,
